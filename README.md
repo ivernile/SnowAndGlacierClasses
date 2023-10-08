@@ -1,2 +1,2 @@
 # SnowAndGlacierClasses
-dataset containing six classes
+This dataset contains six classes of snow and glacier features namely 
